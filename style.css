@@ -27,7 +27,7 @@ main{
     background-color: red;
 }
 
-@media (min-width: 800px) {
+@media (max-width: 800px) {
     main{
         display: flex;
         flex-direction: column;
