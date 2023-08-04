@@ -20,6 +20,8 @@ main{
     height: calc(2/3 * 100svh);
     width: calc(2/3 * 100svh);
     display: grid;
+    border: 3px solid rgba(255, 253, 240, 0.5);
+    border-radius: 0.5rem
 }
 
 
