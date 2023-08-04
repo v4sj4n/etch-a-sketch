@@ -33,4 +33,8 @@ main{
         flex-direction: column;
         align-items: center;
     }
+    #container{
+        height: calc(2/3 * 100svw);
+        width: calc(2/3 * 100svw);
+    }
   }
